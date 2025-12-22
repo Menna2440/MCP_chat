@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+PyPDF2
+Pillow
+pandas
+matplotlib
+numpy
+transformers
+torch
+torchvision
+requests
+python-dotenv
+openpyxl
