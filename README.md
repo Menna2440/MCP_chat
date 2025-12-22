@@ -11,14 +11,16 @@ A high-performance, multipurpose AI workstation that integrates **Text, Vision, 
 - **Context Aware**: Remembers your chat history and handles multiple sessions.
 - **Rename & Manage**: Organize your workspace by naming your chat sessions.
 
+
 ### 2. 🎨 Creativity & Graphics
 - **AI Image Generation**: Type what you want to see, and the AI will generate high-quality images.
 - **Smart Prompting**: Automatically refines your simple ideas into detailed artistic prompts.
 
-
+  
 ### 3. 📂 File Intelligence
 - **PDF Extraction**: Reads and analyzes large PDF documents.
 - **Code & Text**: Supports snippets and text file ingestion for analysis.
+- **File Editing : Just drag and drop a CSV file. The AI can edit your file and return the edited.
 
 ---
 
