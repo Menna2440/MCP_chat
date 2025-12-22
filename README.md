@@ -15,11 +15,8 @@ A high-performance, multipurpose AI workstation that integrates **Text, Vision, 
 - **AI Image Generation**: Type what you want to see, and the AI will generate high-quality images.
 - **Smart Prompting**: Automatically refines your simple ideas into detailed artistic prompts.
 
-### 3. 📊 Automated Data Science
-- **CSV Analysis**: Just drag and drop a CSV file. The AI analyzes categories and trends.
-- **Instant Plotting**: Ask for a "plot", "chart", or "graph", and the system will automatically generate visual data using Matplotlib.
 
-### 4. 📂 File Intelligence
+### 3. 📂 File Intelligence
 - **PDF Extraction**: Reads and analyzes large PDF documents.
 - **Code & Text**: Supports snippets and text file ingestion for analysis.
 
